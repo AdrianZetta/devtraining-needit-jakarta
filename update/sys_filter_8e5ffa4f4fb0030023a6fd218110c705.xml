@@ -6,25 +6,25 @@
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <group/>
-        <last_used>2017-08-30 07:04:30</last_used>
+        <last_used>2017-08-30 06:38:42</last_used>
         <mobile>true</mobile>
         <roles/>
         <sys_class_name>sys_filter</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-08-22 02:35:09</sys_created_on>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2017-08-30 06:38:42</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>64ea3c604fb8030023a6fd218110c71e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>mobile</sys_name>
-        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_id>8e5ffa4f4fb0030023a6fd218110c705</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_filter_64ea3c604fb8030023a6fd218110c71e</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-30 07:04:30</sys_updated_on>
+        <sys_update_name/>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2017-08-30 06:38:42</sys_updated_on>
         <table>sys_user</table>
         <title>mobile</title>
-        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <user display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</user>
     </sys_filter>
 </record_update>

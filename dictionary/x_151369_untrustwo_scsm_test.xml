@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="SCSM Test" max_length="40" name="x_151369_untrustwo_scsm_test" type="collection"/>
+</database>
